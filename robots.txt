@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /private/
+Disallow: /config/
+Disallow: /admin/
+
+# حماية الحقوق
+Sitemap: https://ahmadshh208.github.io/sitemap.xml
